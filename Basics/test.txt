@@ -1,6 +1,6 @@
-This is a text file for Python
-This is a text file for cat
-This is a text file for dog
-This is a text file for test
 This is a text file for paste
 This is a text file for glue
+This is a text file for test
+This is a text file for dog
+This is a text file for cat
+This is a text file for Python
